@@ -1,4 +1,4 @@
-package com.habitforge.habit_service;
+package com.habitforge.habitservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.habitforge.habit_service;
+package com.habitforge.habitservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
